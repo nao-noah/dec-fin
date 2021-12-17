@@ -1,0 +1,27 @@
+.title {
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.sum {
+  margin: 30px 0;
+  font-size: 36px;
+}
+
+input {
+  border: none;
+}
+
+.input-num {
+  margin-bottom: 20px;
+  border: 1px solid #888;
+  border-radius: 4px;
+  height: 36px;
+  font-size: 24px;
+}
+
+button {
+  margin: 10px;
+  font-size: 20px;
+}
